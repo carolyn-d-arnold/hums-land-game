@@ -1,3 +1,4 @@
+This is my submission for I/O Avenue's Project 1 HumsLand Game.
 puts "Welcome to Hums Land: Virtual Realm!"
 puts "What's your desired experience abroad, you see?\nto experience Hums Land by?"
 puts "Options: train, plane, sea, cherry tree"
