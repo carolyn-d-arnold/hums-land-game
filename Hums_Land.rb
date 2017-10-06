@@ -64,3 +64,7 @@ for carrier in carriers
 end
        puts "All was a delight."
 
+#Data logic check
+carriers = ["transport1", "transport2", "transport3", "transport4"].count
+('transport4' == 'train')
+transport1 = {name: "train"}.class
